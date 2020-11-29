@@ -1,0 +1,3 @@
+# *16 de noviembre*
+
+### El jefe Gildaro hizo creación del repositorio de Github para poder documentar los avances del proyecto, además de haber recabado las preguntas que cada integrante deseaba hacerle a la maestra Sharon y debatir cuales eran las mejores para el objetivo deseado, al final se eligieron 10 preguntas
