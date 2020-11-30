@@ -1,4 +1,5 @@
 # Salud Mental FMAT
+![salud mental fmat logo](https://i.pinimg.com/originals/c0/cd/38/c0cd38c5b82f47b1b510c0f7369ee96b.png)
 ## Equipo 7
 - Gildardo Maldonado
 - Nailea Cámara
