@@ -24,3 +24,17 @@ La página se puede encontrar accediendo al siguiente [enlace](https://www.faceb
 7. [Usuarios y clientes](https://github.com/GildardoMaldonado/SaludMentalFMAT/blob/main/DOCUMENTACI%C3%93N/7.%20Usuarios%20y%20clientes.md)
 
 [Bitácora](https://github.com/GildardoMaldonado/SaludMentalFMAT/tree/main/DOCUMENTACI%C3%93N/BIT%C3%81CORA)
+
+
+## Diferencias entre Scrum y nuestra metodología
+
+### Para realizar el proyecto decidimos usar la metodología Scrum como base, sin embargo, le hicimos diversas modificaciones para poder aprovechar al máximo la disponibilidad y eficacia del equipo.
+
+## Sprints
+### Decidimos que nuestros sprints serán semanales, con cada publicación en la pagina (Las cuales se espera serán semanales) daremos por finalizado un sprint, esto para tener una buena retroalimentación con cada publicación que se realiza y su alcance y aceptación de los clientes
+
+## Roles
+### Los roles no los modificamos, quedando con los roles básicos, el Product Owner, El scrum master y los deveolpment team
+
+## Interacción con el cliente
+### A diferencia de la metodología Scrum en la cual la interacción con el cliente sólo se da cuando se realiza la muestra del avance al final del sprint, nuestro plan es tener una interacción muy seguida con nuestros clientes, para así ir preparando con mejor detalle las publicaciones que se realizarán en la página
