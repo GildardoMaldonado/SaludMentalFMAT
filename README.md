@@ -26,7 +26,7 @@ La página se puede encontrar accediendo al siguiente [enlace](https://www.faceb
 [Bitácora](https://github.com/GildardoMaldonado/SaludMentalFMAT/tree/main/DOCUMENTACI%C3%93N/BIT%C3%81CORA)
 
 
-### Diferencias entre Scrum y nuestra metodología
+# Diferencias entre Scrum y nuestra metodología
 
  Para realizar el proyecto decidimos usar la metodología Scrum como base, sin embargo, le hicimos diversas modificaciones para poder aprovechar al máximo la disponibilidad y eficacia del equipo.
 
